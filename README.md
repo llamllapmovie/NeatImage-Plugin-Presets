@@ -10,4 +10,4 @@ Now Follow the following steps:
 - Preview your effect and apply.
 - Congratulation now you're done. 
 
-You can view working with neat image from [here](https://www.youtube.com/watch?v=8F_RlLiIgbA)
+View Video [here](https://www.youtube.com/watch?v=8F_RlLiIgbA)
