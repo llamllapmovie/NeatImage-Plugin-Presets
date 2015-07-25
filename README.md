@@ -8,4 +8,6 @@ Now Follow the following steps:
 - Now On Device Noise Profile tab: Click on 'Open Device Noise Profile' and then locate presets named 'RecentProfile.dnp' and open.
 - Go to Noice Filter Setting tab: Click on 'Load Filter Setting from preset' and then locate presets named 'RecentProfile.nfp' and open.
 - Preview your effect and apply.
-- Congratulation you're done. 
+- Congratulation now you're done. 
+
+You can view working with neat image from [here](https://www.youtube.com/watch?v=8F_RlLiIgbA)
